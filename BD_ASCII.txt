@@ -1,0 +1,267 @@
+La BD :
+
+Chapitre 1 : 
+
+          ~ Partons à l'aventure ! ~
+ ________________________________________
+/                                        \
+|  Jean-père-mon castor et son fils      |
+|  Racine-casteur s'élancent dans les    |
+|  bois enchantés... YOUHOUUU!!!!! 🌲🦫  |
+\________________________________________/
+        \     
+         \    (°ᴥ°)    (°ᴥ°)
+          \  (   )     (   )
+             ^^ ^^     ^^ ^^
+
+         Le père       Le fils
+     Jean-père-mon   Racine-casteur
+         Castor          🐾
+
+
+
+Chapitre 2 :
+
+ ~ Père Castor, raconte-moi une histoire ! ~
+
+ _________________________________________________
+/                                                 \
+|  Oh oui mon enfant, avec plaisir...              |
+|  Il était une fois un joli petit castor 🦫        |
+|  qui se promenait en ville pour la première fois.|
+|  Il rencontra un python mystérieux... 🐍✨        |
+|                                                 |
+|  🐍 : "Viens par là, mon ami, je vais te faire    |
+|        un tour de magie..."                      |
+|                                                 |
+|  Le castor s’approcha curieusement...            |
+|  Et *POUF* il fut caster en Integer :            |
+|                                                 |
+|                💥 castor => (int) 💥             |
+|                       = 0                        |
+|                                                 |
+|  Le néant... Le vide absolu. Plus jamais vu.    |
+\_________________________________________________/
+        \         
+         \  (°ᴥ°)      ~>      0️⃣
+            (   )     
+            ^^  ^^     
+
+Chapitre 3 :
+
+~ Tu peux me raconter une devinette, papa ? ~
+
+ ___________________________________________________________________
+/                                                 \
+|  👨‍🦰 : Avec plaisir mon fils !                   |
+|  Le chiffre 4 entre dans la forêt... 🌲          |
+|  Il perd son chemin et ressort transformé...     |
+|                                                 |
+|  👦 : Mais qu'est-ce qu'il est devenu ?           |
+|  Il a perdu ses quatre anneaux comme Audi ? ⭘⭘⭘⭘ |
+|                                                 |
+|  👨‍🦰 : Non mon fils...                          |
+|        Il est tombé sur **une racine** !         |
+|        Il s'est transformé en... le chiffre 2 !  |
+|        Moralité : Fais attention où tu marches ! |
+|                                                 |
+|        Allez viens, on va s'amuser dehors ! ☀️  |
+\_________________________________________________/
+         \           
+          \  
+            (°ᴥ°)       (°ᴥ°)
+	    (   )       (   )
+	    ^^  ^^      ^^  ^^     
+
+Chapitre 4 :
+
+~ Racine-castor, en quête d'acceptation digitale... ~
+
+ ______________________________________________________
+/                                                      \
+|  🦫 Racine-castor part à une soirée chez Java ☕️    |
+|                                                      |
+|  Mais... il sent un peu la forêt 😬                  |
+|  (il ne s'est pas lavé avec de l'eau de Javel 🧼)    |
+|                                                      |
+|  💻 Java : "Tu pues le binaire non compilé, dégage." |
+|                                                      |
+|  🦫 : *snif... j'vais tenter chez Python...* 🐍     |
+|                                                      |
+|  Mais là-bas... que des pythons et des serpents à    |
+|  sonnette ! Ils RAFFOLENT des castors... 🍽️          |
+|                                                      |
+|  Il s’échappe, en pleurs, et trouve refuge chez :     |
+|                                                      |
+|  🌐 Réseaux : "Ne t’en fais pas, petit castor.       |
+|               Je garderai tes larmes en sécurité."   |
+|                                                      |
+|  🗃️ SQL arrive et dit :                              |
+|      "Je vais supprimer les données des bibliothèques|
+|       Java une bonne fois pour toutes."              |
+\______________________________________________________/
+        \        
+         \ 
+	   (°ᴥ°)	(°ᴥ°)
+	   (   )	(   )
+	   ^^  ^^       ^^  ^^
+
+
+Chapitre 5 :
+
+~ La naissance épique du langage C# ~
+
+ ___________________________________________________________
+/                                                           \
+|  🦫 Jean-père-mon castor part se promener dans les bois...|
+|                                                           |
+|  Sur le chemin, il croise son vieil ami : **le C** 🧓💾  |
+|                                                           |
+|  Ils discutent longuement...                              |
+|                                                           |
+|  🦫 : "Tu sais C... t'es mon seul vrai ami."              |
+|                                                           |
+|  Un brin ému, Jean-père pense à son propre fils...        |
+|                                                           |
+|  Il se dit : "Et si... le C avait un fils aussi ?"        |
+|                                                           |
+|  🤔 Il pense aux qualités du C :                          |
+|    - Puissant et dangereux de l'extérieur 💥              |
+|    - Mais doux avec les humains ❤️                        |
+|                                                           |
+|  🦫 : "Tu me fais penser à... un REQUIN 🦈 !"            |
+|                                                           |
+|  Et là, l'idée surgit comme une syntaxe claire :          |
+|                                                           |
+|     "Appelons-le **C-Shark**... Ou plutôt **C#** !" 🎵    |
+|                                                           |
+|  Ainsi naquit C# : souple, structuré, et musical.          |
+\___________________________________________________________/
+           \
+            \
+	      (°ᴥ°)	(°ᴥ°)
+	      (   )	(   )
+	      ^^  ^^    ^^  ^^
+
+
+Chapitre 6 :
+
+~ Papa, est-ce qu’un castor peut aller dans l’espace ? ~
+
+ _____________________________________________________________
+/                                                             \
+| 👦 : Papa, est-ce qu’un castor peut aller dans l’espace ?    |
+| 👨‍🦰 : Bien sûr, fiston. Il y avait un castor nommé Nova 🦫🌟  |
+|                                                             |
+|   Il construisait des fusées... EN BOIS ! 🪵🚀               |
+|   Au bord de la rivière, il clouait, martelait... 🔨        |
+|                                                             |
+|   Un jour, *PAF* ! Le bois était tellement bien cloué       |
+|   que... la fusée a DÉCOLLÉ pour de vrai ! 🔥🚀             |
+|                                                             |
+| 👦 : Et alors ? Il est allé où ?                            |
+| 👨‍🦰 : Jusqu’à la LUNE 🌕                                     |
+|                                                             |
+|   Là-bas, il a construit :                                   |
+|   🛠️ Le tout premier **barrage lunaire**                    |
+|                                                             |
+|   Mais... 😐                                                |
+|   Pas d’eau. Que des cailloux. 🪨🪨🪨                         |
+|                                                             |
+| 👦 : C’est bête pour un castor.                              |
+| 👨‍🦰 : Oui, mais il a dit :                                 |
+|   "Même sans eau, je peux rêver." 💭🌙                      |
+|                                                             |
+| 💡 Morale : Vise la lune... mais emporte ta gourde. 💧🚀     |
+|                                                             |
+| 👨‍🦰 : Allez, viens, on va faire une fusée en carton ! 📦🚀  |
+\_____________________________________________________________/
+	\
+         \
+	   (°ᴥ°)	(°ᴥ°)
+	   (   )	(   )
+	   ^^  ^^	^^  ^^
+
+
+Chapitre 7 :
+
+~ Papa, est-ce que les castors peuvent faire de la musique ? ~
+
+ ____________________________________________________________
+/                                                            \
+| 👦 : Papa, est-ce que les castors peuvent faire de la zik ? |
+| 👨‍🦰 : Tu vas rire...                                        |
+|                                                            |
+|   Il y avait un castor nommé **Flowby** 🎤🧢                |
+|   Il s’en fichait de ronger du bois...                     |
+|   Lui, ce qu’il kiffait, c’était le **beatbox** et les **rimes** |
+|                                                            |
+| 👦 : Sérieux ?                                              |
+| 👨‍🦰 : Grave !                                              |
+|                                                            |
+|   Il se baladait dans la forêt 🌲                          |
+|   Avec une casquette à l’envers 🧢                         |
+|   Et lâchait des punchlines comme :                        |
+|                                                            |
+|   "J’ronge du beat, pas du bouleau,                        |
+|    j’fais danser l’eau comme un héros." 🎶🌊               |
+|                                                            |
+|   Les autres castors rigolaient… 🦫😆                      |
+|   Jusqu’à ce qu’il **gagne le concours** du *barrage talent*! 🏆 |
+|                                                            |
+| 👦 : Il a gagné quoi ?                                     |
+| 👨‍🦰 : Un **micro en brindilles dorées** 🎤🌿✨             |
+|                                                            |
+| 💡 Morale : Sois qui tu veux... même un castor qui rime. 🦫🎧 |
+\____________________________________________________________/
+	\
+         \
+	   (°ᴥ°)	(°ᴥ°)
+	   (   )	(   )
+	   ^^  ^^       ^^  ^^
+
+Chapitre 8 :
+
+~ Dis papa, est-ce qu’un castor peut être un ninja ? ~
+
+ ____________________________________________________________
+/                                                            \
+| 👦 : Dis papa, un castor peut être ninja ?                 |
+| 👨‍🦰 : Bien sûr ! Il y avait un castor secret :            |
+|           **Ombre-d’eau** 🦫🥷💧                            |
+|                                                            |
+|   Il se faufilait sans bruit entre les arbres... 🌲         |
+|   Lançait des étoiles en écorce 🌟🌳                       |
+|   Et disparaissait dans les feuilles 🍃                    |
+|                                                            |
+| 👦 : Trop stylé !                                           |
+|                                                            |
+| 👨‍🦰 : Mais un jour... il s’est pris la queue dans une     |
+|   liane ! 🌿                                                |
+|   Et là...                                                 |
+|                    **PLAAAAF** 💦                          |
+|   En plein dans la rivière, devant tout le monde 🫣         |
+|                                                            |
+|   Il a dit : "Bon, ninja discret… c’est pas pour moi."     |
+|                                                            |
+|   Alors il est devenu… 🧘‍♂️                                |
+|   **Professeur de yoga pour castors**                     |
+|                                                            |
+| 👦 : C’est pas mal aussi !                                 |
+| 👨‍🦰 : Moralité : Même les ninjas ratés                    |
+|        peuvent trouver la paix intérieure ☯️               |
+|                                                            |
+| 👨‍🦰 : On essaye une posture de l’arbre, fiston ? 🌳🧘‍♂️    |
+\____________________________________________________________/
+            \
+             \
+	       (°ᴥ°)	  (°ᴥ°)
+	       (   )	  (   )
+	       ^^  ^^     ^^  ^^
+
+
+_________________________________________________
+|                                                |
+|          🦫✨   THE END   ✨🦫               |
+|________________________________________________|
+
